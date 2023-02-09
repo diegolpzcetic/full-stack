@@ -34,4 +34,9 @@ first_word = words[0].upper()
 new_string = first_word + ' ' + ' '.join(words[1:])
 print(new_string)
 
+#Ejercicio 8
+sentence = f'"El precio del café es de {var_number} euros"'
+print(sentence)
 
+#Ejercicio 9
+print ("hello world")
